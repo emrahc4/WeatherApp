@@ -18,7 +18,7 @@
 📌 Not: API anahtarınızı index.js dosyasına eklemeyi unutmayın.
 
 🌍 Demo için tıklayın:
-weatherappec4.netlify.app
+https://weatherappec4.netlify.app/
 
 🛠️ Geliştirici: 
  Emrah Çakır
